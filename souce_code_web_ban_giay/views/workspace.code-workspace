@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Project_Web"
+		},
+		{
+			"path": "..\\..\\web2"
+		},
+		{
+			"path": "..\\..\\giaodienkhachhang"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "day_4"
+	}
+}

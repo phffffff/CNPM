@@ -1,0 +1,122 @@
+.product-tab {display: inline-block;}
+.product-tab li a {
+    color: #999;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-shadow: none;
+}
+.product-tab li a span {padding: 0 15px;}
+.product-tab li.active a {color: #333;}
+.section-title {
+    margin-bottom: 40px;
+}
+li.dangnhap{
+	float: left;
+}
+li.dangky{
+	float: left;
+}
+.roww{
+	background-color: ;
+	border-radius: 20px;
+	margin: auto;
+}
+
+
+
+
+
+#box {  
+border: 1px solid rgb(200, 200, 200);   
+box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px; 
+background: rgba(52, 73, 94, 1);   
+border-radius: 50px; 
+top:0px;
+}
+ 
+h2 {    
+text-align:center;  
+color:#fff;
+}
+
+.home {
+  font-size: 20px;
+  color: blue;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  top: 0px;
+  right: 28px;
+  background-color: #FF0000;
+  border-radius: 50px;
+
+}
+.home:hover{
+	background-color: #CD0000;
+}
+a.tk{
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+/* đăng ký */
+
+
+.form-control { 
+margin-bottom: 10px;
+}
+.login-screen-bg {  
+background-color: #EFEFEF;
+}
+.home {
+  font-size: 20px;
+  color: blue;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  top: 0px;
+  background-color: #d9534f;
+  border-radius: 50px;
+
+}
+.home:hover{
+  background-color: #CD0000;
+}
+.onee{
+ border: 1px solid rgb(200, 200, 200);   
+box-shadow: rgba(0, 0, 0, 0.1); 
+background: rgba(52, 73, 94, 1);   
+border-radius: 50px;
+top:0px;
+
+}
+.button2{
+  background-color: #d9534f;
+}
+.button2:hover{
+  background-color: darkorange;
+}
+
+legend{
+	color:white;
+	padding: 0px;
+}
+span{
+	color:black;
+}
+a.dn{
+	color:white;
+}
